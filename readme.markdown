@@ -9,3 +9,7 @@ Here are some talks that I have found very valuable, and recommend to other pass
 ## REST
 
 -   [Hypermedia APIs](http://vimeo.com/20781278), Jon Moore at Øredev 2010
+
+## Coding style and principles
+
+-   [8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring), Greg Young at QCon London 2013
