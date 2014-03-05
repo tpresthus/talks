@@ -13,3 +13,7 @@ Here are some talks that I have found very valuable, and recommend to other pass
 ## Coding style and principles
 
 -   [8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring), Greg Young at QCon London 2013
+
+## Event sourcing
+
+-   [The Event Store and Web Applications](http://www.infoq.com/presentations/event-store-web-apps), Greg Young at Build Stuff 13
