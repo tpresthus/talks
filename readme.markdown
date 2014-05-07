@@ -13,6 +13,7 @@ Here are some talks that I have found very valuable, and recommend to other pass
 ## Coding style and principles
 
 -   [8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring), Greg Young at QCon London 2013
+-   [Building SOLID foundations](http://www.infoq.com/presentations/design-principles-code-structures), Nat Pryce, Steve Freeman at NorDevCon
 
 ## Event sourcing
 
