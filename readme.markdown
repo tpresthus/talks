@@ -14,6 +14,7 @@ Here are some talks that I have found very valuable, and recommend to other pass
 
 -   [8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring), Greg Young at QCon London 2013
 -   [Building SOLID foundations](http://www.infoq.com/presentations/design-principles-code-structures), Nat Pryce, Steve Freeman at NorDevCon
+-   [Software Architecture and the balance with Agility](https://vimeo.com/user22258446/review/79382531/91467930a4), Simon Brown at DevWeek 2013
 
 ## Event sourcing
 
