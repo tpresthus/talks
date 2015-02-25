@@ -19,3 +19,7 @@ Here are some talks that I have found very valuable, and recommend to other pass
 ## Event sourcing
 
 -   [The Event Store and Web Applications](http://www.infoq.com/presentations/event-store-web-apps), Greg Young at Build Stuff 13
+
+## Service-Oriented Architecture
+
+-  [Does My Bus Look Big in This?](http://www.infoq.com/presentations/soa-without-esb), Jim Webber and Martin Fowler at QCon London 2008
