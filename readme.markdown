@@ -23,3 +23,4 @@ Here are some talks that I have found very valuable, and recommend to other pass
 ## Service-Oriented Architecture
 
 -  [Does My Bus Look Big in This?](http://www.infoq.com/presentations/soa-without-esb), Jim Webber and Martin Fowler at QCon London 2008
+-  [Concurrency at Large-Scale: The Evolution to Reactive Microservices](http://www.infoq.com/presentations/reactive-services-scale), Randy Shoup at QCon
