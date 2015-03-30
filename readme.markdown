@@ -9,6 +9,7 @@ Here are some talks that I have found very valuable, and recommend to other pass
 ## REST
 
 -   [Hypermedia APIs](http://vimeo.com/20781278), Jon Moore at Øredev 2010
+-   [REST: I don't Think it Means What You Think it Does](http://www.infoq.com/presentations/rest-misconceptions), Stefan Tilkov at Build Stuff 2014
 
 ## Coding style and principles
 
