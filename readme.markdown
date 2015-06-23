@@ -17,6 +17,7 @@ Here are some talks that I have found very valuable, and recommend to other pass
 -   [Building SOLID foundations](http://www.infoq.com/presentations/design-principles-code-structures), Nat Pryce, Steve Freeman at NorDevCon
 -   [Software Architecture and the balance with Agility](https://vimeo.com/user22258446/review/79382531/91467930a4), Simon Brown at DevWeek 2013
 -   [Seven Ineffective Coding Habits of Many Programmers](http://www.infoq.com/presentations/7-ineffective-coding-habits), Kevlin Henney at Build Stuff 2014
+-   [Functional programming Design Patterns](http://www.infoq.com/presentations/fp-design-patterns), Scott Wlaschin at Build Stuff 2014
 
 ## Event sourcing
 
