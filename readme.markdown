@@ -27,6 +27,7 @@ Here are some talks that I have found very valuable, and recommend to other pass
 
 -  [Does My Bus Look Big in This?](http://www.infoq.com/presentations/soa-without-esb), Jim Webber and Martin Fowler at QCon London 2008
 -  [Concurrency at Large-Scale: The Evolution to Reactive Microservices](http://www.infoq.com/presentations/reactive-services-scale), Randy Shoup at QCon
+-  [Principles of Microservices](http://www.infoq.com/presentations/microservices-principles), Sam Newman at microchg 2015
 
 ## Agile methodology
 
